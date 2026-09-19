@@ -8,10 +8,6 @@ Class `Order` digunakan untuk menyimpan informasi setiap pesanan, seperti ID pes
 
 Program dijalankan melalui file `main.py`, sedangkan class dipisahkan ke dalam file `order.py` dan `order_processor.py` agar kode lebih terstruktur dan mudah dikelola.
 
-## Penerapan Encapsulation
-
-Konsep **Encapsulation** diterapkan dengan menggabungkan data dan fungsi yang berkaitan dengan data tersebut ke dalam sebuah class.
-
 Pada class `Order`, terdapat:
 
 - `order_id`
