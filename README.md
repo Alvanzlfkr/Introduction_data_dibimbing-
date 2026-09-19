@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Program ini dibuat menggunakan Python dengan konsep Object-Oriented Programming (OOP) untuk mengelola data pesanan. Program memiliki dua class utama, yaitu `Order` dan `OrderProcessor`.
+Program ini dibuat menggunakan Python untuk mengelola data pesanan. Program memiliki dua class utama, yaitu `Order` dan `OrderProcessor`.
 
 Class `Order` digunakan untuk menyimpan informasi setiap pesanan, seperti ID pesanan, nama pelanggan, tanggal pesanan, dan total harga. Class `OrderProcessor` digunakan untuk mengelola kumpulan pesanan, menghitung total pendapatan, serta menghitung total pajak dari seluruh pesanan.
 
